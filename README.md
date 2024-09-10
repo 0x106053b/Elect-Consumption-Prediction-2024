@@ -7,17 +7,16 @@
 
 ## 01 분석 개요
 <hr>
-<img width="300" src="https://github.com/user-attachments/assets/85670d90-c63c-4473-b98b-1f66813385da">
-<img width="300" src="https://github.com/user-attachments/assets/e7c9aa84-5106-4596-b290-11a60b974583">
+<img src="https://github.com/user-attachments/assets/e7c9aa84-5106-4596-b290-11a60b974583">
 <br><br>
 
 ## 02 활용 데이터셋
 <hr>
-<img width="500" src="https://github.com/user-attachments/assets/1bd2de1f-acb1-460e-b63b-a316289a3e22">
-<img width="500" src="https://github.com/user-attachments/assets/3b1a631c-aefa-4773-bfac-146b773cedef">
-<img width="500" src="https://github.com/user-attachments/assets/60dfd818-af00-4ac4-a3bc-53e2510ecd3e">
-<img width="500" src="https://github.com/user-attachments/assets/405ca409-5225-41bb-b407-5f0046b464ca">
-<img width="500" src="https://github.com/user-attachments/assets/a8ee754b-a00d-4f7b-80e5-faebb219d7fb">
+<img src="https://github.com/user-attachments/assets/1bd2de1f-acb1-460e-b63b-a316289a3e22">
+<img src="https://github.com/user-attachments/assets/3b1a631c-aefa-4773-bfac-146b773cedef">
+<img src="https://github.com/user-attachments/assets/60dfd818-af00-4ac4-a3bc-53e2510ecd3e">
+<img src="https://github.com/user-attachments/assets/405ca409-5225-41bb-b407-5f0046b464ca">
+<img src="https://github.com/user-attachments/assets/a8ee754b-a00d-4f7b-80e5-faebb219d7fb">
 <br><br>
 
 ## 03 활용 데이터셋
