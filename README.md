@@ -7,8 +7,8 @@
 
 ## 01 분석 개요
 <hr>
-<img width="400" src="https://github.com/user-attachments/assets/85670d90-c63c-4473-b98b-1f66813385da">
-<img width="400" src="https://github.com/user-attachments/assets/e7c9aa84-5106-4596-b290-11a60b974583">
+<img width="450" src="https://github.com/user-attachments/assets/85670d90-c63c-4473-b98b-1f66813385da">
+<img width="450" src="https://github.com/user-attachments/assets/e7c9aa84-5106-4596-b290-11a60b974583">
 <br><br>
 
 ## 02 활용 데이터셋
